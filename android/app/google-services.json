@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "193673580382",
+    "project_id": "golem-galaxy",
+    "storage_bucket": "golem-galaxy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:193673580382:android:63c0e77e37c49cde8209cf",
+        "android_client_info": {
+          "package_name": "com.contrabandinteractive.golemgalaxy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoFtani-li0cLDgkmfU8SJ5NxuLB1iSNg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
